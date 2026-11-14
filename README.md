@@ -60,6 +60,7 @@ Authenticator-Form/
 └── README.md
 📬 Contact
 For suggestions or issues, feel free to open an issue or reach out via kanchannath.webdev@gmail.com
+```
 
 <!-- AUTHOR_START -->
 ---
